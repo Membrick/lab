@@ -1,4 +1,5 @@
 #!/usr/bin/python3.7
+#Simple calculator
 
 from math import *
 import time
@@ -93,5 +94,7 @@ time.sleep(1)
 
 print( "Result = " + str(result))
 
-#end of multiply and start of devide
+time.sleep(0.5)
+
+print("===END===")
 
